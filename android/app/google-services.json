@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "989066695016",
+    "project_id": "globa-app-53c40",
+    "storage_bucket": "globa-app-53c40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989066695016:android:6da2a503af277a0c0806dd",
+        "android_client_info": {
+          "package_name": "com.mycompany.globaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989066695016-oc4hls59gdnqobk6oubq6klfl2r9tkrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.globaapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "989066695016-og8iqauoln5kdjb4kus5vj8flr1fou86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4E6te1pqj5Iaz6X1hztrBPAGg9hh2yzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989066695016-og8iqauoln5kdjb4kus5vj8flr1fou86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "989066695016-1tljbb0g9q2mvg97v3og74vaqoc1flk7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.globaapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
